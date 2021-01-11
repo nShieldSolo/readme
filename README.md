@@ -4,7 +4,7 @@
 </em></p>
 
 [![Facebook: NamHT](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/NamHT94)
-[![twitter: NamHT](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/NamHT94/)](https://www.linkedin.com/in/thaianebraga/)
+[![twitter: NamHT](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NamHT94/)
 [![GitHub nshieldsolo](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/nShieldSolo)
 
 
